@@ -1,0 +1,22 @@
+.headerContainer {
+    background-color: #9DD1F1;
+    color: white;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.logo {
+    margin-left: 15%;
+    width: 50%;
+}
+.languageDropdown {
+    text-align: center;
+    width: 10%;
+    font-size: 1.4em;
+}
+.loggedInUser {
+    width: 10%;
+    text-align: center;
+    font-size: 1.4em;
+}

@@ -1,0 +1,29 @@
+.footerContainer {
+    width: 70%;
+    margin-left: 15%;
+    padding: 50px 0 20px 0;
+}
+.footerColumn {
+    width: 33%;
+    display: inline-block;
+    vertical-align: top;
+}
+.hyperlinksTitle {
+    font-weight: 700;
+    font-size: 1.3em;
+    margin-bottom: 20px;
+}
+.footerLinks {
+    color: white;
+    font-size: 1.1em;
+}
+.footerLinks:hover {
+    color: black;
+}
+.footerLogo {
+    margin-top: 50px;
+    display: inline-block;
+}
+.footerLogo img {
+    width: 75%;
+}

@@ -1,0 +1,9 @@
+@import './header/header.scss';
+@import './main/main.scss';
+@import './footer/footer.scss';
+
+.appContainer {
+    display: block;
+    width: 100%;
+    margin: auto;
+}
